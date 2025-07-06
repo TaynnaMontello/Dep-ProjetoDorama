@@ -34,21 +34,4 @@ Dicas e recomendações sem spoilers!
 Muita gente pensa que dorama é só romance, mas o universo dos dramas asiáticos é muito mais amplo e cheio de possibilidades. A proposta aqui é guiar com carinho e leveza, para que cada dorameira encontre a história perfeita para o seu momento.
 
 Estrutura do Projeto
-📁 doramas/
-├── index.html              ← Página inicial 
-├── style.css               ← Estilo do site
-│
-├── 📁 pages/               ← TODOS os HTMLs dos doramas ficam aqui!
-│   ├── sorriso-real.html   ← Cada dorama deve ter a sua página explicativa
-│   ├── vincenzo.html
-│   ├── truebeauty.html
-│   │
-│   └── 📁 autores/         ← Páginas dos autores principais  
-│       ├── Lee Junho.html  
-│       ├── Song Joong-ki.html  
-│       └── Wi Ha-joon.html  
-│
-├── 📁 imagens/
-│   ├── sorriso-real.jpg
-│   ├── vincenzo.jpg
-│   └── truebeauty.jpg
+<pre lang="md"> ``` 📁 doramas/ ├── index.html ← Página inicial ├── style.css ← Estilo do site │ ├── 📁 pages/ ← Páginas explicativas dos doramas │ ├── sorriso-real.html │ ├── vincenzo.html │ └── truebeauty.html │ ├── 📁 autores/ ← Páginas dos autores principais │ ├── lee-junho.html │ ├── song-joong-ki.html │ └── wi-ha-joon.html │ ├── 📁 imagens/ ← Imagens dos doramas │ ├── sorriso-real.jpg │ ├── vincenzo.jpg │ └── truebeauty.jpg ``` </pre>
